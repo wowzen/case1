@@ -1,0 +1,38 @@
+/* TODO: design your profile with CSS */
+body {
+   font-family: 'Roboto', sans-serif;
+    color: #6B72E1;
+    background-color: rgb(200,200,200);
+    font: size 18px;
+}
+
+div {background: white;                         /* White background */
+    padding: 30px;                             /* Internal space */
+    border-radius: 4px;                        /* Small radius */
+    box-shadow: 10px 10px 30px rgba(0,0,0,.1); 
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 20px;
+    text-align:center;
+}
+
+
+    #pic {width: 200px;
+    border-radius: 10%;}
+
+    h1 {
+        font-size: 20px;
+    }
+
+    h3 { font-size: 18px}
+
+    a {
+        text-decoration: none;
+        background-color: #6B72E1;
+        padding:12px 24px;
+        color:white;
+    }
+
+    ul {text-decoration:none;
+
+    }
